@@ -1,0 +1,15 @@
+
+ .container{
+   
+     margin: 30px;
+ }
+ li{
+     font-size: 20px;
+     color: rgb(229, 242, 229);
+     display: flex;
+     justify-content: center;
+     align-items: center;
+ }
+ input{
+     padding: 10px;
+ }
