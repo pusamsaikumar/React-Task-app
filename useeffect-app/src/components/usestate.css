@@ -1,0 +1,27 @@
+*{
+
+
+box-sizing: border-box;
+}
+.color-red{
+color: red;
+}
+.color-blue{
+    color: blue;
+}
+.container{
+    border: 1px solid burlywood;
+   background-color: darkcyan;
+   margin: 30px;
+   border-radius: 6px;
+   padding: 6px;
+   box-shadow: -5px 4px 10px rgba(222, 212, 212, 0.7);
+}
+h2{
+    font-size: 20px;
+    color: darkred;
+}
+span,b{
+    font-size: 30px;
+    font-weight: 700;
+}

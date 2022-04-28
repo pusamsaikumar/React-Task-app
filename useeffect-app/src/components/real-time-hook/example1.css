@@ -1,0 +1,36 @@
+.container1{
+    background: darkgoldenrod;
+}
+.header1{
+    color: darkblue;
+}
+.header2{
+    color: darkgreen;
+}
+.header3{
+    color: darkslateblue;
+}
+button{
+background: dimgray;
+padding: 10px;
+border-radius: 5px;
+margin-left: 10px;
+color: rgb(170, 170, 180);
+font-size: 15px;
+font-weight: bold;
+cursor: pointer;
+border: none;
+outline: none;
+}
+button:hover{
+    background-color: darkred;
+    color: rgb(31, 30, 28);
+}
+ div p{
+    font-size: 35px;
+    color: darkred;
+}
+div span{
+    color: rgb(186, 202, 202);
+    font-size: 30px;
+}
