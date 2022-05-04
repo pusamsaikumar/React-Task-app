@@ -17,7 +17,7 @@ function LoginForm1() {
           console.log('error');
           setError('invalid username/password');
       }
-    }
+    };
 
   return (
       <>
@@ -39,8 +39,7 @@ function LoginForm1() {
 </form>
 }
 </>
-   
-  )
-}
+ );
+};
 
 export default LoginForm1;
